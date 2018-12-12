@@ -1,3 +1,4 @@
 import important_stuff as in
-in.fuct()
+in.method()
 print("Marina")
+print("FUN")
